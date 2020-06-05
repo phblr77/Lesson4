@@ -1,9 +1,9 @@
 package ru.gb.testLesson4;
 import java.util.Random;
 import java.util.Scanner;
-
+//Hey here are some updates:)
 public class Lesson4 {
-    // Заведение констант на допустимый ввод
+    
     // Какими символами (фигками) играет игрок
     private static final char DOT_HUMAN = 'X';
     // Что вводит компьютер
